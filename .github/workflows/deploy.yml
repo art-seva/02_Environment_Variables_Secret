@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.xhxzcyr.mongodb.net
       MONGODB_USER_NAME: art-seva
-      MONGODB_PASSWORD: b7MUAMSsbIEEZWoW
+      MONGODB_PASSWORD: Latjoo2023
       PORT: 8080
     runs-on: ubuntu-latest
     steps:
